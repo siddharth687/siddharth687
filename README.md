@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okay_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okay_sid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharth-jain-1aa217225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddharth-jain-1aa217225/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddharth-jain687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-jain687" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hackurr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hackurr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dunnobro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dunnobro" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/scott_evil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scott_evil" height="30" width="40" /></a>
