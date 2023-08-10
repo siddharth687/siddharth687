@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jainsiddharth687@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QbfUBHLcAwjMvg0BmqO8aUp05NA2coOX/view?usp=sharing]([https://drive.google.com/file/d/1QbfUBHLcAwjMvg0BmqO8aUp05NA2coOX/view?usp=sharing](https://drive.google.com/file/d/1yMs0PGwlGRTSnB8fahY08C6F4N93d5Aq/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QbfUBHLcAwjMvg0BmqO8aUp05NA2coOX/view?usp=sharing](https://drive.google.com/file/d/1yMs0PGwlGRTSnB8fahY08C6F4N93d5Aq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
